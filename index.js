@@ -1,7 +1,7 @@
 const imagens = [
     "images/fotoMae.jpg",
     "images/fotoMaee.jpg",
-    "images/mae3.jpg"
+    "images/SaraheEu.jpg"
 ];
 let indiceAtual = 0;
 
